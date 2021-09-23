@@ -4,22 +4,22 @@
     "description": "An API for a social media app built with Express, Mongoose, and MongoDB",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fbenjaminmorris/social-media.git"
+        "type": "git",
+        "url": "git+https://github.com/fbenjaminmorris/social-media.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/fbenjaminmorris/social-media/issues"
+        "url": "https://github.com/fbenjaminmorris/social-media/issues"
     },
     "homepage": "https://github.com/fbenjaminmorris/social-media#readme",
     "dependencies": {
-      "express": "^4.17.1",
-      "moment": "^2.29.0",
-      "mongoose": "^5.10.7"
+        "express": "^4.17.1",
+        "moment": "^2.29.0",
+        "mongoose": "^5.13.9"
     }
-  }
+}
